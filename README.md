@@ -3,8 +3,6 @@
 
 ## Exercício 01 – Conversão de Celsius para Fahrenheit
 
-**Enunciado:** Converter Celsius para Fahrenheit.
-
 ```kotlin
 fun main() {
     println("Insira o valor em Celsius:")
@@ -19,8 +17,6 @@ fun main() {
 
 ## Exercício 02 – Conversão de Fahrenheit para Celsius
 
-**Enunciado:** Converter Fahrenheit para Celsius.
-
 ```kotlin
 fun main() {
     println("Insira o valor em Fahrenheit:")
@@ -34,8 +30,6 @@ fun main() {
 ---
 
 ## Exercício 03 – Volume de uma Lata de Óleo
-
-**Enunciado:** Volume de uma lata de óleo.
 
 ```kotlin
 fun main() {
@@ -54,8 +48,6 @@ fun main() {
 
 ## Exercício 04 – Combustível Gasto em uma Viagem
 
-**Enunciado:** Quantidade de litros de combustível gasta em uma viagem.
-
 ```kotlin
 fun main() {
     print("Insira a distância: ")
@@ -72,8 +64,6 @@ fun main() {
 ---
 
 ## Exercício 05 – Prestação em Atraso
-
-**Enunciado:** Valor de uma prestação em atraso.
 
 ```kotlin
 fun main() {
@@ -94,8 +84,6 @@ fun main() {
 ---
 
 ## Exercício 06 – Troca de Valores
-
-**Enunciado:** Troca de valores entre duas variáveis.
 
 ```kotlin
 fun main() {
@@ -118,8 +106,6 @@ fun main() {
 
 ## Exercício 07 – Soma e Multiplicação de Quatro Números
 
-**Enunciado:** Adição e multiplicação de quatro números inteiros.
-
 ```kotlin
 fun main() {
     val lista = mutableListOf<Int>()
@@ -140,8 +126,6 @@ fun main() {
 
 ## Exercício 08 – Volume de uma Caixa Retangular
 
-**Enunciado:** Valor do volume de uma caixa retangular.
-
 ```kotlin
 fun main() {
     val comprimento = readln().toDouble()
@@ -157,8 +141,6 @@ fun main() {
 
 ## Exercício 09 – Número ao Quadrado
 
-**Enunciado:** Número inteiro ao quadrado.
-
 ```kotlin
 import kotlin.math.pow
 
@@ -172,8 +154,6 @@ fun main() {
 ---
 
 ## Exercício 10 – Diferença entre Dois Números
-
-**Enunciado:** Diferença do primeiro número pelo segundo.
 
 ```kotlin
 fun main() {
@@ -189,8 +169,6 @@ fun main() {
 
 ## Exercício 11 – Conversão de Dólar para Real
 
-**Enunciado:** Conversão do dólar para o real.
-
 ```kotlin
 fun main() {
     val valor = readln().toDouble()
@@ -203,8 +181,6 @@ fun main() {
 
 ## Exercício 12 – Conversão de Real para Dólar
 
-**Enunciado:** Conversão do real para o dólar.
-
 ```kotlin
 fun main() {
     val valor = readln().toDouble()
@@ -216,8 +192,6 @@ fun main() {
 ---
 
 ## Exercício 13 – Soma dos Quadrados de Três Números
-
-**Enunciado:** Soma dos quadrados de três números.
 
 ```kotlin
 fun main() {
@@ -233,8 +207,6 @@ fun main() {
 ---
 
 ## Exercício 14 – Quadrado da Soma de Três Números
-
-**Enunciado:** Cálculo do quadrado da soma de três números.
 
 ```kotlin
 import kotlin.math.pow
@@ -252,8 +224,6 @@ fun main() {
 ---
 
 ## Exercício 15 – Produto e Soma de Quatro Números
-
-**Enunciado:** Cálculo do produto e da soma de quatro números.
 
 ```kotlin
 fun main() {
@@ -275,8 +245,6 @@ fun main() {
 
 ## Exercício 16 – Novo Salário com Aumento
 
-**Enunciado:** Cálculo do novo salário com aumento.
-
 ```kotlin
 fun main() {
     val salario = readln().toDouble()
@@ -294,8 +262,6 @@ fun main() {
 
 ## Exercício 17 – Área de uma Circunferência
 
-**Enunciado:** Cálculo da área de uma circunferência.
-
 ```kotlin
 fun main() {
     val raio = readln().toDouble()
@@ -307,8 +273,6 @@ fun main() {
 ---
 
 ## Exercício 18 – Apuração de Votos
-
-**Enunciado:** Apuração de votos em uma eleição sindical.
 
 ```kotlin
 fun main() {
@@ -329,8 +293,6 @@ fun main() {
 ```
 
 ## Exercício 19 – Cálculo das Quatro Operações Básicas
-
-**Enunciado:** Ler dois números e calcular soma, subtração, multiplicação e divisão.
 
 ```kotlin
 fun main() {
@@ -356,8 +318,6 @@ fun main() {
 
 ## Exercício 20 – Cálculo da Velocidade de um Projétil
 
-**Enunciado:** Calcular a velocidade média em m/s.
-
 ```kotlin
 fun main() {
     val km = readln().toDouble()
@@ -371,8 +331,6 @@ fun main() {
 ---
 
 ## Exercício 21 – Cálculo de Potência
-
-**Enunciado:** Calcular a potência de um número.
 
 ```kotlin
 fun main() {
@@ -388,8 +346,6 @@ fun main() {
 
 ## Exercício 22 – Volume de uma Esfera
 
-**Enunciado:** Calcular o volume de uma esfera.
-
 ```kotlin
 fun main() {
     val raio = readln().toDouble()
@@ -402,8 +358,6 @@ fun main() {
 ---
 
 ## Exercício 23 – Conversão de Metros para Pés
-
-**Enunciado:** Converter metros para pés.
 
 ```kotlin
 fun main() {
@@ -418,8 +372,6 @@ fun main() {
 
 ## Exercício 24 – Cálculo de Raiz
 
-**Enunciado:** Calcular a raiz de um número.
-
 ```kotlin
 fun main() {
     val base = readln().toDouble()
@@ -433,8 +385,6 @@ fun main() {
 ---
 
 ## Exercício 25 – Sucessor e Antecessor
-
-**Enunciado:** Calcular o sucessor e o antecessor de um número inteiro.
 
 ```kotlin
 fun main() {
@@ -451,8 +401,6 @@ fun main() {
 ---
 
 ## Exercício 26 – Quadrado da Divisão de Dois Números
-
-**Enunciado:** Calcular o quadrado do resultado da divisão de dois números.
 
 ```kotlin
 fun main() {
