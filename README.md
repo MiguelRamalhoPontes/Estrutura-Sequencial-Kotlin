@@ -1,5 +1,4 @@
-# Lista de Exercícios em Kotlin
-
+# Estrutura-Sequencial-Kotlin
 ---
 
 ## Exercício 01 – Conversão de Celsius para Fahrenheit
